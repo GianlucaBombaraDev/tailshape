@@ -1,0 +1,23 @@
+{
+  "name": "tailshape",
+  "version": "1.0.0",
+  "description": "Tailwind plugin to quickly create amazing shapes",
+  "main": "tailshape.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tailwind:watch": "npx tailwindcss -i ./tailwind.css -o ./dist/tailwind.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GianlucaBombaraDev/tailshape.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GianlucaBombaraDev/tailshape/issues"
+  },
+  "homepage": "https://github.com/GianlucaBombaraDev/tailshape#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.3.2"
+  }
+}
