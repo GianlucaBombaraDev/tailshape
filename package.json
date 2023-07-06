@@ -1,5 +1,5 @@
 {
-  "name": "GianlucaBombaraDev/tailshape",
+  "name": "@GianlucaBombaraDev/tailshape",
   "version": "1.0.0",
   "description": "Tailwind plugin to quickly create amazing shapes",
   "main": "./src/tailshape.js",
