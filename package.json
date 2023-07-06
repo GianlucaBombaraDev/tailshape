@@ -6,6 +6,9 @@
   "scripts": {
     "tailwind:watch": "npx tailwindcss -i ./tailwind.css -o ./dist/tailwind.css --watch"
   },
+  "publishConfig": {
+    "@GianlucaBombaraDev:registry": "https://npm.pkg.github.com"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/GianlucaBombaraDev/tailshape.git"
