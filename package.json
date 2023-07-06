@@ -2,9 +2,8 @@
   "name": "tailshape",
   "version": "1.0.0",
   "description": "Tailwind plugin to quickly create amazing shapes",
-  "main": "tailshape.js",
+  "main": "./src/tailshape.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "tailwind:watch": "npx tailwindcss -i ./tailwind.css -o ./dist/tailwind.css --watch"
   },
   "repository": {
